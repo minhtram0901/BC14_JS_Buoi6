@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card-content{
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 6px;
+    background-color: rgba(175, 238, 238, 0.5);
+    height: 50px;
+}
+
+.father{
+    display: none;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 6px;
+    background-color: rgba(175, 238, 238, 0.5);
+}
+
+.card-body input{
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    outline: 0;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
